@@ -1,0 +1,10 @@
+Ici est stocké notre projet de Terminats Science de l'ingénieur au lycée Technologique Gaspard Monge.
+
+Participent à ce projet:
+	Noé Gueydan
+	Alexis Gros
+	Tristan Porteries
+	Thubaut Manceau
+
+Ce projet a pour objectif de permettre pour un coût abordable l'accès à la troposphère à la population.
+Pour ce, nous allons créer un ballon avec un adaptateur ballon/quadricoptère
